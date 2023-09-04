@@ -1,6 +1,6 @@
 ## Fonet Bilgi Teknolojileri
 
-Bu küçük proje; benim birçok şey öğrendiğim, yaparken kendimi geliştirme fırsatı bulduğum bir projeydi.Mevcut HBYS ve Moldova projesi tarafında olan yoğunluğum sebebiyle eksikliklerim olduğunun farkında olduğumu belirtmek istiyorum.Belirli bir süre zarfında bitirilmesi istenilen bir proje olması nedeniyle bu hâliyle teslim etmeyi uygun gördüm.Yeni yapıya geçiş sürecinde oluşacak frameWork e göre daha kapsamlı daha anlamlı işler çıkartacağıma eminim.
+Bu küçük proje; benim birçok şey öğrendiğim, yaparken kendimi geliştirme fırsatı bulduğum bir projeydi.Yeni yapıya geçiş sürecinde oluşacak frameWork e göre daha kapsamlı daha anlamlı işler çıkartacağıma eminim.
 
 Saygılarımla.
 
