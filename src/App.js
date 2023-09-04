@@ -120,7 +120,7 @@ function App() {
 
                             <Row gutter={[4, 4]} style={{ paddingTop: 4 }}>
                                 <Col sm={labelWidth} xs={labelWidth}>
-                                    <FormItemLabel label={"Doğum Tarihi"}></FormItemLabel>
+                                    <FormItemLabel label={"Yaşı"}></FormItemLabel>
                                 </Col>
                                 <Col sm={20} xs={20}>
                                 <InputNumber min={5} max={100} value={formik.values.yasi} onChange={(event)=>{
